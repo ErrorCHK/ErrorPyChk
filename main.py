@@ -1,4 +1,3 @@
-
 import logging
 from os import dup
 from random import random
@@ -20,7 +19,7 @@ import aiogram as ErrorsAiogram
 import aiohttp
 from Translate import Translate
 from urllib.parse import urlparse
-API_TOKEN = '6747350883:AAGfTsENmxI5dUWgGMeY7tLvWX4S9pBwjzA'
+API_TOKEN = '6834135059:AAEwWqrWNkrnDUVORrTO8LQhXcWTb9KIHp8'
 logging.basicConfig(level=logging.INFO)
 #log = logging.getLogger('broadcast')
 
